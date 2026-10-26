@@ -1,6 +1,0 @@
----
-gfm: false
----
-- foo
-  	
-  	bar

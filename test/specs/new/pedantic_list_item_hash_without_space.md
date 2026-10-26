@@ -1,6 +1,0 @@
----
-pedantic: true
----
-
-- item
-#tag

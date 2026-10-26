@@ -1,0 +1,20 @@
+[package]
+name = "marked"
+version = "18.1.2"
+edition = "2021"
+description = "A markdown parser built for speed"
+license = "MIT"
+authors = ["Christopher Jeffrey"]
+repository = "https://github.com/markedjs/marked"
+keywords = ["markdown", "markup", "html"]
+publish = false
+
+[lib]
+name = "marked"
+path = "src/lib.rs"
+
+[[bin]]
+name = "marked"
+path = "src/main.rs"
+
+[dependencies]
